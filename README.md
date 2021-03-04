@@ -8,9 +8,9 @@ Welcome to my Github Profile.
 I was a bit bored lately, so I added this readme. 
 If that sounds weird - well, its weirder that you read it. So that's that.
 
-I am currently doing my PhD at the [TU-Delft](https://www.tudelft.nl/) in the [Software Engineering Research Group(SERG)](https://se.ewi.tudelft.nl/) where I work in the [CISE-Lab](https://www.ciselab.nl/). 
-My Research Track is labelled _"AI Testing and Testing AI"_ - So I do twice the AI and twice the Testing that other researchers do. 
-I am very much the thermomix of Software Engineering AI.
+I am currently doing my PhD at the [TU Delft](https://www.tudelft.nl/) in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) where I work in the [CISELab](https://www.ciselab.nl/). 
+My research track is labelled _"AI Testing and Testing AI"_ - So I do twice the AI and twice the Testing that other researchers do. 
+I am very much the Thermomix of Software Engineering AI.
 
 I like: 
 
