@@ -6,7 +6,7 @@
 Welcome to my Github Profile. 
 
 I was a bit bored lately, so I added this readme. 
-If that sounds weird - well, its weirder that you read it. So that's that.
+If that sounds weird - well, it's weirder that you read it. So that's that.
 
 I am currently doing my PhD at the [TU Delft](https://www.tudelft.nl/) in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) where I work in the [CISELab](https://www.ciselab.nl/). 
 My research track is labelled _"AI Testing and Testing AI"_ - So I do twice the AI and twice the Testing that other researchers do. 
@@ -30,8 +30,3 @@ I try to do everything open source, so most of the repositories you see here hav
 If you want to reach me, you can either 
 - :email: email me at L.H.Applis@tudelft.nl
 - :heavy_exclamation_mark: Open an issue anywhere around and @ me 
-
-
-Oh, and on a last note: 
-
-Please do not open PRs just for Github actions. I decided to reduce CI elements, as most of my projects are not really important enough to burn the energy. :deciduous_tree: :battery: :deciduous_tree:
