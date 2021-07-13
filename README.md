@@ -1,6 +1,6 @@
 ### Hi There! I'm Leonhard. :wave:
 ![badgeA](https://img.shields.io/badge/Lockdown-Eased-darkgreen)
-![badgeB](https://img.shields.io/badge/Vaccination-Pending-darkviolet)
+![badgeB](https://img.shields.io/badge/Vaccination-Biontech-Orange)
 ![badgeC](https://img.shields.io/badge/Style-Epic-brightblue) 
 
 Welcome to my Github Profile. 
