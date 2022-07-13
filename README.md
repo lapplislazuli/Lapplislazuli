@@ -30,3 +30,6 @@ I try to do everything open source, so most of the repositories you see here hav
 If you want to reach me, you can either 
 - :email: email me at L.H.Applis@tudelft.nl
 - :heavy_exclamation_mark: Open an issue anywhere around and @ me 
+
+
+![snake gif](https://github.com/lapplislazuli/lapplislazuli/blob/output/github-contribution-grid-snake.svg)
